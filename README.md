@@ -14,7 +14,7 @@ Para compilar o Rust para WASM, precisamos ter o alvo `wasm32-unknown-unknown` i
 
 ```bash
 rustup target add wasm32-unknown-unknown
-
+```
 
 Agora que temos nossas bases cobertas, é hora de instalar o protagonista: [Trunk]. Basta executar o seguinte comando para instalá-lo:
 
